@@ -63,7 +63,7 @@ class RoomInventory {
 
 /* ---------------- MAIN APPLICATION ---------------- */
 
-public class book_my_state {
+public class book_my_stay {
 
     public static void main(String[] args) {
 
